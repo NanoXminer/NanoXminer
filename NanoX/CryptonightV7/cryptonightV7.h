@@ -1,5 +1,5 @@
 #pragma once
-#include <cuda_runtime.h>
+#include <runtime.h>
 #include <miner.h>
 
 #ifdef __INTELLISENSE__
